@@ -1,19 +1,22 @@
 # Assignment 1
 
-1. Read Sections 1.1, 1.2, 1.3
+The assignment is due next week.
+Solve the assignment on a sheet of paper, write your name and branch on top, and submit it before the lecture.  
 
-2. **Graph coloring language**: Let us represent any undirected graph with a string of tuples where each tuple has the format (_id_, _color_) or (_id1, id2_). The tuple (_id1_, _id2_) indicates that there is an edge between node _id1_ and node _id2_. The tuple (_id_, _color_) indicates the color of the node id.
+1. Using the English grammar shown in Figure 1.1 in the book (page 22), show that the sentence "the boy with a cat sang a song." belongs to the english language.
 
-    - **Example**: The string _“(1,2),(1,red),(3,2),(2,green),(3,yellow)”_ represents a graph with three nodes 1,2 and 3. There are two edges, one between node 1 and node 2, and one between node 3 and node 2. Node 1 is colored red, node 2 is colored green, and node 3 is colored yellow.
 
-    - Write a grammar to accept such graph coloring language. Node id is a number (any sequence of digits) and color can only take on values: red, green, blue, white, and yellow.
 
-    - Write the grammar in ANTLR and generate the parse tree. Validate the grammar using different strings.
+1. Let's assume that the language L contains all strings of a's and b's such that number of b's is twice the number of a's and a's appear before b's.
+For example, all these strings are accepted:
+    - "abb"
+    - "aabbbb"
+    - "aaabbbbbb"
 
-3. Write a C++ program that
+    but the following strings are not accepted:
 
-    - reads a text file that has a string as in question 2
+    - "bba"
+    - "abba"
+    - "aabb"
 
-    - outputs the list of nodes in the graph
-
-    - outputs all colors used in the graph
+    Write a grammar to accept such language.
