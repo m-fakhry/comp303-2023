@@ -23,7 +23,7 @@ Email| mf.sci.asu@gmail.com
 
 Index | Date |Topic | Contents | Lecture | Assignment
 ---|---|---|---|---|---
-1 | 10/2 | Introduction | Different types of grammars, what is BNF, | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
+1 | 10/2 | Introduction | syntax and semantics, formal definition of grammar | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
 2 | 10/9 | | | |
 3 | 10/16 | | | |
 4 | 10/23 | | | |
