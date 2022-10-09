@@ -24,7 +24,7 @@ Email| mf.sci.asu@gmail.com
 Index | Date |Topic | Contents | Lecture | Assignment
 ---|---|---|---|---|---
 1 | 10/2 | Introduction | syntax and semantics, formal definition of grammars | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
-2 | 10/9 | | | |
+2 | 10/9 | Language | types of grammars, derivation tree, left and right most derivation, language, ambiguous grammar | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
 3 | 10/16 | | | |
 4 | 10/23 | | | |
 5 | 10/30 | | | |

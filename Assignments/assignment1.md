@@ -1,7 +1,7 @@
 # Assignment 1
 
 The assignment is due next week.
-Solve the assignment on a sheet of paper, write your name and branch on top, and submit it before the lecture.  
+Solve the assignment on a sheet of paper, write your name and the branch on top, and submit it before the lecture.  
 
 1. Using the English grammar shown in Figure 1.1 in the book (page 22), show that the sentence "the boy with a cat sang a song." belongs to the english language.
 
