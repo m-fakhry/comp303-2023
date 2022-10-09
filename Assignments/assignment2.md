@@ -6,7 +6,7 @@ The first two assignments are due next week and you need to submit before the le
 
 1. Write a grammar to accept all sentences consisting of one or more a's followed by one or more b's followed by one or more c's
 
-1. Consider $L = \{ a^n b^n c^m d^m; n \ge 1  m \ge 1 \} \bigcup \{ a^n b^m c^m d^n : n \ge 1; m \ge 1 \} $
+1. Consider $L = \lbrace a^n b^n c^m d^m; n \ge 1;  m \ge 1 \rbrace \bigcup \lbrace a^n b^m c^m d^n; n \ge 1; m \ge 1 \rbrace $
     - Describe the language in plain English.
     - Write a grammar to describe the language.
     - Write the left most derivations for the string aabbbcccdd.
