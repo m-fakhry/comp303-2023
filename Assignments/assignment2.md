@@ -12,4 +12,4 @@ The first two assignments are due next week and you need to submit before the le
     - Write the left most derivations for the string aabbbcccdd.
     - Is the grammar you wrote ambiguous or unambiguous? Why?
 
-1. FYOB: Solve 5, 6, 7
+1. FYOB: Solve 5, 6, and 7.
