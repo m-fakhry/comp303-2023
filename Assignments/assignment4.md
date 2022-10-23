@@ -18,9 +18,9 @@ The following exercises are for your own, you do not need to submit them
 
       $G \rightarrow B$
 
-      $B \rightarrow num ⊕ B $ &nbsp; $|$ &nbsp; $num$
+      $B \rightarrow num ⊕ B$ &nbsp; $|$ &nbsp; $num$
 
-      $B \rightarrow B @ A $ &nbsp; $|$ &nbsp; $ A$
+      $B \rightarrow B @ A$ &nbsp; $|$ &nbsp; $ A$
 
 
       which of the following statements is true?
