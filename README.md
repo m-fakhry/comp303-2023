@@ -26,7 +26,7 @@ Index | Date |Topic | Contents | Lecture | Assignment
 1 | 10/2 | Introduction | syntax and semantics, formal definition of grammars | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
 2 | 10/9 | Language | types of grammars, derivation tree, left and right most derivation, language, ambiguous grammar | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
 3 | 10/16 | Ambiguous. Precedence | convert from Ambiguous to unambiguous, precedence for operations  | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
-4 | 10/23 | | | |
+4 | 10/23 | Associative. Attribute grammar | left and right associative, attribute grammar | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
 5 | 10/30 | | | |
 6 | 11/6 | | | |
 7 | 11/13 | Midterm | | |
