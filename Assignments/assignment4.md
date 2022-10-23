@@ -18,9 +18,9 @@ The following exercises are for your own, you do not need to submit them
 
       $G \rightarrow B$
 
-      $B \rightarrow num ⊕ B | num$
+      $B \rightarrow num ⊕ B $ &nbsp; $|$ &nbsp; $num$
 
-      $B \rightarrow B @ A | A$
+      $B \rightarrow B @ A $ &nbsp; $|$ &nbsp; $ A$
 
 
       which of the following statements is true?
@@ -32,7 +32,7 @@ The following exercises are for your own, you do not need to submit them
 1. Consider the following grammar:
 
     $T \rightarrow V $ &nbsp; $|$ &nbsp; $T$ -> $T$ &nbsp; $|$ &nbsp; $T *T $
-    
+
     $V \rightarrow \alpha | \beta | \gamma $
 
     - Show that this grammar is ambiguous
