@@ -17,7 +17,9 @@ The following exercises are for your own, you do not need to submit them
 1. Consider the following grammar:
 
       $G \rightarrow B$
+
       $B \rightarrow num ⊕ B | num$
+
       $B \rightarrow B @ A | A$
 
 
@@ -30,6 +32,7 @@ The following exercises are for your own, you do not need to submit them
 1. Consider the following grammar:
 
     $T \rightarrow V $ &nbsp; $|$ &nbsp; $T$ -> $T$ &nbsp; $|$ &nbsp; $T *T $
+    
     $V \rightarrow \alpha | \beta | \gamma $
 
     - Show that this grammar is ambiguous
