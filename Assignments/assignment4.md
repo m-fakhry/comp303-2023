@@ -2,10 +2,21 @@
 
 ---
 
-The assignment is due next week and you need to submit before the lecture starts.
+The assignment is due next week and you need to submit it before the lecture starts.
 
 1. Solve Exercises 1 and 10 in Section 3.1 (pages 71-73).
 
+1. Consider the following grammar:
+
+    $T \rightarrow V$ &nbsp; $|$ &nbsp; $T$ -> $T$ &nbsp; $|$ &nbsp; $T *T $
+
+    $V \rightarrow \alpha | \beta | \gamma $
+
+    - Show that this grammar is ambiguous
+    - Modify the grammar to an unambiguous grammar by enforcing the following properties:
+      - -> is right associative
+      - $*$ is left associative
+      - $*$ has higher priority than ->
 
 ---
 
@@ -27,16 +38,3 @@ The following exercises are for your own, you do not need to submit them
       1. $⊕$ and $@$ have the same precedence
       2. $@$ has higher precedence than $⊕$
       3. none of the above
-
-
-1. Consider the following grammar:
-
-    $T \rightarrow V$ &nbsp; $|$ &nbsp; $T$ -> $T$ &nbsp; $|$ &nbsp; $T *T $
-
-    $V \rightarrow \alpha | \beta | \gamma $
-
-    - Show that this grammar is ambiguous
-    - Modify the grammar to an unambiguous grammar by enforcing the following properties:
-      - -> is right associative
-      - $*$ is left associative
-      - $*$ has higher priority than ->
