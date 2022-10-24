@@ -20,7 +20,7 @@ The assignment is due next week and you need to submit it before the lecture sta
 
 ---
 
-The following exercises are for your own, you do not need to submit them
+The following exercises are for your own, you do not need to submit them.
 
 
 1. Write a CFG that generates the language: $L = \lbrace (ac)^n (b^m d)^n; n \ge 1 ; m \ge 0\rbrace$.
