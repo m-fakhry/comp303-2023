@@ -1,5 +1,9 @@
 # Lecture 4
 
+**Logistics**
+
+- Recording of the lecture is prohibited
+
 **Topics we covered**
 
 - Ambiguity
