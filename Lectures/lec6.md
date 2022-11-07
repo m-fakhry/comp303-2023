@@ -8,6 +8,7 @@
     - the left-hand and right-hand sides are of the same type
 
   - another example is to compute the value of a binary number
+  
     $number \rightarrow number$ $bit$  &nbsp; $|$ &nbsp; $bit$
 
     $bit \rightarrow 0$ &nbsp; $|$ &nbsp; $1$
