@@ -29,8 +29,8 @@ Index | Date |Topic | Contents | Lecture | Assignment
 4 | 10/23 | Associative. Attribute grammar | left and right associative, attribute grammar | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
 5 | 10/30 | Attribute grammar | synthesized and inherited attributes | [Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assignment5.md)
 6 | 11/6 | Attribute grammar | more examples on synthesized and inherited attributes | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
-7 | 11/13 | Midterm | | |
-8 | 11/20 | | | |
+7 | 11/13 | Midterm | - | - | - |
+8 | 11/20 | Translational semantics | translation from source to target, machine target language, examples | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
 9 | 11/27 | | | |
 10 | 12/4 | | | |
 11 | 12/11 | | | |
