@@ -15,7 +15,7 @@
       - $x = 2 + y$
       - $x = 2 + y * z $
       - $x = 2 * y + 3 * z $
-      - if $(x > 2 * y) $ {$ z = 2 + 3 $}
+      - if $(x > 2 * y)$ { $z = 2 + 3$ }
       - if $(x > 2 * y) $ {$z = 2 + 3$} else {$z=3*5$}
 
     - the general translation of if-else statement
