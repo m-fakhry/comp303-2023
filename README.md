@@ -31,8 +31,8 @@ Index | Date |Topic | Contents | Lecture | Assignment
 6 | 11/6 | Attribute grammar | more examples on synthesized and inherited attributes | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
 7 | 11/13 | Midterm | - | - | - |
 8 | 11/20 | Translational semantics | translation from source to target, machine target language, examples | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
-9 | 11/27 | Translational semantics | Attribute grammar to generate machine code | |
-10 | 12/4 | Translational semantics |  Attribute grammar to generate machine code | |
+9 | 11/27 | Translational semantics | Attribute grammar to generate machine code | [Lecture 8](Lectures/lec8.md) | 
+10 | 12/4 | Translational semantics |  Attribute grammar to generate machine code | [Lecture 9](Lectures/lec9.md) | [Assignment 9](Assignments/assignment9.md)
 11 | 12/11 | | | |
 12 | 12/18 | | | |
 13 | 12/25 | | | |
